@@ -773,7 +773,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className={`py-6 text-center ${darkMode ? 'bg-gray-800' : 'bg-gray-100'}`}>
-        <p>© {new Date().getFullYear()} John Doe. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Muhammad Hasby. All rights reserved.</p>
       </footer>
     </div>
   )
