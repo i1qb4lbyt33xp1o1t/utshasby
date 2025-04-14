@@ -262,12 +262,12 @@ export default function Home() {
           >
             <div className="w-32 h-32 mx-auto rounded-full overflow-hidden border-4 border-blue-500 mb-4">
               <img 
-                src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1180&q=80" 
+                src="/profile2.jpg" 
                 alt="Profile" 
                 className="w-full h-full object-cover"
               />
             </div>
-            <h1 className="text-4xl font-bold mb-2">John Doe</h1>
+            <h1 className="text-4xl font-bold mb-2">Muhammad Hasby Al Ghifari</h1>
             <h2 className="text-2xl text-blue-500">Frontend Developer</h2>
           </motion.div>
           
@@ -331,7 +331,7 @@ export default function Home() {
               <div className="space-y-4">
                 <div>
                   <p className="font-medium">Full Name:</p>
-                  <p>John Michael Doe</p>
+                  <p>Muhammad Hasby Al Ghifari</p>
                 </div>
                 <div>
                   <p className="font-medium">Date of Birth:</p>
@@ -339,15 +339,15 @@ export default function Home() {
                 </div>
                 <div>
                   <p className="font-medium">Email:</p>
-                  <p>john.doe@example.com</p>
+                  <p>muhammadhasby@gmail.com</p>
                 </div>
                 <div>
                   <p className="font-medium">Phone:</p>
-                  <p>+1 (555) 123-4567</p>
+                  <p>082121211</p>
                 </div>
                 <div>
                   <p className="font-medium">Location:</p>
-                  <p>San Francisco, CA</p>
+                  <p>Bandung, Jawa Barat</p>
                 </div>
               </div>
             </motion.div>
@@ -778,3 +778,6 @@ export default function Home() {
     </div>
   )
 }
+
+
+
